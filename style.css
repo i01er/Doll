@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #F0F0F0;
+    background-image: url('./clothes/body/body_no glasses.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    /*background-size: cover;*/
+}
+
+img {
+   pointer-events: none;
+   height: auto;
+   width: auto;
+ }
